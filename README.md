@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shravya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Springboot, Microservices
+- 🌱 I’m currently learning Springboot, Microservices and Reactjs
 - 💁‍♀️ I’m looking to collaborate with other developers on front end, Springboot, Java related open source projects.
 
 
